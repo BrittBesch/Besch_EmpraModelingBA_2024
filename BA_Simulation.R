@@ -1,3 +1,9 @@
+# Britt Besch
+# Student ID: 12400991
+# Ludwig-Maxmilians-Universität
+# P19: Practical Course in Empirical Research Methods II: “Formal Modeling of Psychological Theories”
+
+
 
 #------------------------------------------------------------
 # single path formulae
